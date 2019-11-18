@@ -1,0 +1,3 @@
+[submodule "2019-11-13-smld-attention-cnn"]
+	path = 2019-11-13-smld-attention-cnn
+	url = git@github.com:jbcdnr/slides--attention-cnn-smld.git
